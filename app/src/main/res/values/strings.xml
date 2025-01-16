@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hiring App</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="search">Searching…</string>
+    <string name="heading">List ID: %1$s</string>
+</resources>
