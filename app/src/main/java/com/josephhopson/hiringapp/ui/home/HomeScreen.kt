@@ -172,7 +172,7 @@ fun Loading() {
         Text(
             text = stringResource(R.string.loading),
             modifier = Modifier.padding(dimensionResource(R.dimen.padding_medium)),
-            style= MaterialTheme.typography.headlineSmall,
+            style = MaterialTheme.typography.headlineSmall,
             color = MaterialTheme.colorScheme.primary
         )
     }
@@ -193,7 +193,7 @@ fun Landing() {
         Text(
             text = stringResource(R.string.search),
             modifier = Modifier.padding(dimensionResource(R.dimen.padding_medium)),
-            style= MaterialTheme.typography.headlineSmall,
+            style = MaterialTheme.typography.headlineSmall,
             color = MaterialTheme.colorScheme.primary
         )
     }
